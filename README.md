@@ -1,8 +1,10 @@
 ### Hi there 👋 I'm [Elena](https://avbmoons.github.io/)
 <h4> Web developer & system analyst</h4>
   <h2>About me</h2>
-  <p> I have experience of approximately two years in website development.</p>
-  <p>Besides, I have been involved in IT for a considerable period engaging in business and system analysis, designing modules, systems, and websites. I am now capable of implementing the designs I create into actual code.</p>
+  <p> I’m developing websites and design ones also.</p>
+  <p>Making front, back and interactive layouts too.</p>
+  <p>Having some personal and common projects.</p>
+  <p>I'm looking for interesting projects to participate and apply my skills, as well as learn something new.</p>
   <h2>Skills</h2>
   <h4>Front-end</h4>
   <a href="HTML5"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
